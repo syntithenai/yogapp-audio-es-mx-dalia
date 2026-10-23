@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "es-mx-dalia.zip", "bytes": 62126406, "sha256": "1f3a4339ac4fd7d555c0b4c27d6b0f168a4261abb9d5ec00603ef4266d5e6e27"}
+  ]
+}

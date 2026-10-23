@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "es-mx-dalia",
+  "edgeVoice": "es-MX-DaliaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 163,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 6,
+      "text": "Elija un ancla. El aliento en las fosas nasales, o la subida del vientre.",
+      "file": "c006.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 7,
+      "text": "Descanse la atención allí.",
+      "file": "c007.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 8,
+      "text": "[pausa:23]",
+      "file": "c008.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 9,
+      "text": "Cuando la mente divaga, observe adónde fue.",
+      "file": "c009.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 10,
+      "text": "Entonces regresa. Amable. Limpiamente.",
+      "file": "c010.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 11,
+      "text": "[pausa:29]",
+      "file": "c011.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 12,
+      "text": "El regreso es el entrenamiento.",
+      "file": "c012.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 13,
+      "text": "Inhalar. Permanecer.",
+      "file": "c013.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 14,
+      "text": "Exhalar. Permanecer.",
+      "file": "c014.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 15,
+      "text": "[pausa:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 16,
+      "text": "Si es útil, cuente las respiraciones hasta cinco y luego comience de nuevo.",
+      "file": "c016.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 17,
+      "text": "Uno.",
+      "file": "c017.ogg",
+      "durationSec": 2.448
+    },
+    {
+      "index": 18,
+      "text": "[pausa:17]",
+      "file": "c018.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 19,
+      "text": "Dos.",
+      "file": "c019.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 20,
+      "text": "[pausa:17]",
+      "file": "c020.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 21,
+      "text": "Tres.",
+      "file": "c021.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 22,
+      "text": "[pausa:17]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "Cuatro.",
+      "file": "c023.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 24,
+      "text": "[pausa:17]",
+      "file": "c024.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 25,
+      "text": "Cinco.",
+      "file": "c025.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 26,
+      "text": "[pausa:23]",
+      "file": "c026.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 27,
+      "text": "Suelta el conteo.",
+      "file": "c027.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 28,
+      "text": "Descanse en atención clara y abierta por un momento.",
+      "file": "c028.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 29,
+      "text": "[pausa:34]",
+      "file": "c029.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 30,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c030.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 31,
+      "text": "Mueve los dedos.",
+      "file": "c031.ogg",
+      "durationSec": 1.2
+    },
+    {
+      "index": 32,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c032.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 33,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c033.ogg",
+      "durationSec": 4.824
+    }
+  ]
+}
