@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "es-mx-dalia",
+  "edgeVoice": "es-MX-DaliaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 186,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "Tómese el tiempo para llegar.",
+      "file": "c001.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 2,
+      "text": "Siéntate o acuéstate con apoyo.",
+      "file": "c002.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 3,
+      "text": "Cierra los ojos si te sientes seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 4,
+      "text": "Siente el contacto con el suelo.",
+      "file": "c004.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 5,
+      "text": "Inhale lentamente.",
+      "file": "c005.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 6,
+      "text": "Exhale más tiempo.",
+      "file": "c006.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 7,
+      "text": "[pausa:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 8,
+      "text": "De nuevo.",
+      "file": "c008.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 9,
+      "text": "[pausa:28]",
+      "file": "c009.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 10,
+      "text": "Deja caer los hombros.",
+      "file": "c010.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 11,
+      "text": "Deja que la barriga se ablande.",
+      "file": "c011.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 12,
+      "text": "[pausa:36]",
+      "file": "c012.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 13,
+      "text": "Imagínate a ti mismo como una montaña.",
+      "file": "c013.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 14,
+      "text": "Base ancha. Máximo silencio. Mucha paciencia.",
+      "file": "c014.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 15,
+      "text": "[pausa:43]",
+      "file": "c015.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 16,
+      "text": "El clima se mueve a través de la montaña.",
+      "file": "c016.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 17,
+      "text": "Sol. Viento. Nube. Tormenta.",
+      "file": "c017.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 18,
+      "text": "La montaña permanece.",
+      "file": "c018.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 19,
+      "text": "[pausa:57]",
+      "file": "c019.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 20,
+      "text": "Los pensamientos y los estados de ánimo son el clima.",
+      "file": "c020.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 21,
+      "text": "Eres la montaña.",
+      "file": "c021.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 22,
+      "text": "[pausa:57]",
+      "file": "c022.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 23,
+      "text": "Siente la base de tu cuerpo arraigada.",
+      "file": "c023.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 24,
+      "text": "Siente la altura de la columna sin tensión.",
+      "file": "c024.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 25,
+      "text": "[pausa:43]",
+      "file": "c025.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 26,
+      "text": "Respira como el cielo alrededor de la montaña.",
+      "file": "c026.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 27,
+      "text": "[pausa:71]",
+      "file": "c027.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 28,
+      "text": "Estable. Sin prisas. Suficiente.",
+      "file": "c028.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 29,
+      "text": "[pausa:90]",
+      "file": "c029.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 30,
+      "text": "[pausa:43]",
+      "file": "c030.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 31,
+      "text": "Comience a profundizar la respiración.",
+      "file": "c031.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 32,
+      "text": "Siente la habitación de nuevo.",
+      "file": "c032.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 33,
+      "text": "Mueve los dedos de las manos y de los pies.",
+      "file": "c033.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 34,
+      "text": "Cuando esté listo, abre los ojos.",
+      "file": "c034.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 35,
+      "text": "Avance lentamente hacia lo que viene a continuación.",
+      "file": "c035.ogg",
+      "durationSec": 6.456
+    }
+  ]
+}

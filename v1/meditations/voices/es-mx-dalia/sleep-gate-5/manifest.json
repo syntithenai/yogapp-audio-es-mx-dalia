@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "es-mx-dalia",
+  "edgeVoice": "es-MX-DaliaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 110,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Esta práctica es para el borde del sueño.",
+      "file": "c000.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 1,
+      "text": "Atenúa las luces. Acostarse.",
+      "file": "c001.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 2,
+      "text": "No queda nada por terminar en este momento.",
+      "file": "c002.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 3,
+      "text": "[pausa:24]",
+      "file": "c003.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 4,
+      "text": "Inhala suavemente.",
+      "file": "c004.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 5,
+      "text": "Exhala más tiempo.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "[pausa:24]",
+      "file": "c006.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 7,
+      "text": "Suelta la frente.",
+      "file": "c007.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 8,
+      "text": "Libera los ojos.",
+      "file": "c008.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 9,
+      "text": "Suelta la mandíbula.",
+      "file": "c009.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 10,
+      "text": "[pausa:29]",
+      "file": "c010.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 11,
+      "text": "Armas pesadas. Piernas pesadas.",
+      "file": "c011.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 12,
+      "text": "[pausa:29]",
+      "file": "c012.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 13,
+      "text": "Si los pensamientos te visitan, déjalos pasar como coches nocturnos.",
+      "file": "c013.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 14,
+      "text": "Te quedas con la respiración.",
+      "file": "c014.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 15,
+      "text": "[pausa:45]",
+      "file": "c015.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 16,
+      "text": "Cuerpo que se hunde.",
+      "file": "c016.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 17,
+      "text": "Respira tranquilo.",
+      "file": "c017.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 18,
+      "text": "[pausa:45]",
+      "file": "c018.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 19,
+      "text": "Si llega el sueño, déjalo.",
+      "file": "c019.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 20,
+      "text": "Si no, descansa de todos modos.",
+      "file": "c020.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 21,
+      "text": "[pausa:35]",
+      "file": "c021.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 22,
+      "text": "Buenas noches al día.",
+      "file": "c022.ogg",
+      "durationSec": 3.864
+    }
+  ]
+}

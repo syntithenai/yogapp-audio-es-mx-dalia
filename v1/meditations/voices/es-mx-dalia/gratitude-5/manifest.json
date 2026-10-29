@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "es-mx-dalia",
+  "edgeVoice": "es-MX-DaliaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 159,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 6,
+      "text": "Recuerda una pequeña cosa que te haya ayudado hoy o esta semana.",
+      "file": "c006.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 7,
+      "text": "Puede ser ordinario. Agua tibia. Un mensaje. Luz en una pared.",
+      "file": "c007.ogg",
+      "durationSec": 13.08
+    },
+    {
+      "index": 8,
+      "text": "[pausa:21]",
+      "file": "c008.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 9,
+      "text": "Mantenlo suavemente en consciencia.",
+      "file": "c009.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 10,
+      "text": "Note cualquier ablandamiento en el pecho o la cara.",
+      "file": "c010.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 11,
+      "text": "[pausa:26]",
+      "file": "c011.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 12,
+      "text": "En silencio, agradece esto.",
+      "file": "c012.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 13,
+      "text": "Gracias por estar aquí.",
+      "file": "c013.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 14,
+      "text": "[pausa:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 15,
+      "text": "Ahora una segunda cosa. Otro pequeño bien.",
+      "file": "c015.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 16,
+      "text": "[pausa:26]",
+      "file": "c016.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 17,
+      "text": "Gracias.",
+      "file": "c017.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 18,
+      "text": "[pausa:15]",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "Y uno más. Un tercero.",
+      "file": "c019.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 20,
+      "text": "[pausa:26]",
+      "file": "c020.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 21,
+      "text": "Que la gratitud sea sencilla. No forzado. Acabo de darme cuenta.",
+      "file": "c021.ogg",
+      "durationSec": 11.472
+    },
+    {
+      "index": 22,
+      "text": "[pausa:31]",
+      "file": "c022.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 23,
+      "text": "Descanse en ese calor durante unas cuantas respiraciones.",
+      "file": "c023.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 24,
+      "text": "[pausa:41]",
+      "file": "c024.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 25,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c025.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 26,
+      "text": "Mueve los dedos.",
+      "file": "c026.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 27,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c027.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 28,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c028.ogg",
+      "durationSec": 4.824
+    }
+  ]
+}
